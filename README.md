@@ -1,2 +1,2 @@
-# 2022_1_CS1
-To study ComputerScience1 of 1st semester
+# 2022_1_SP1
+To study Software Project 1 of 1st semester
